@@ -2,7 +2,7 @@
 <div align="center">
 
 
-<h3>  <a href ="https://github.com/shu6h4m/The_Snake_Game/raw/main/SexySnake.exe" align="centre"> >>>> Download <<<< </a> </h3>
+<h3>  <a href ="https://github.com/su6h4m/The_Snake_Game/raw/main/SexySnake.exe" align="centre"> >>>> Download <<<< </a> </h3>
 
 ----------------------------------------------------------------------------------------------------
 
